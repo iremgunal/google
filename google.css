@@ -1,0 +1,50 @@
+.clear {
+    clear: both;
+    
+}
+article {
+    background-color:rgb(219, 227, 233);
+    width: 800px;
+}
+p {
+ margin-bottom: 1px;
+}
+
+.container {
+    margin: 0 auto;
+    font-size: 14px;
+}
+.first {
+    background-color: #91cfc8;
+    width: 200px;
+    height: 100px;
+    margin-left: 425px;
+    text-align: -webkit-center;
+    float: left;
+    margin-right: 4px;
+    
+}
+.middle {
+
+    float: left;
+    background-color: #66cec2;
+    width: 200px;
+    height: 100px;
+    text-align: -webkit-center;
+    float: left;
+    margin-right: 4px;
+   
+}
+
+.end {
+    width: 200px;
+    height: 100px;
+    background-color:#31d3c0 ;
+    text-align: -webkit-center;
+    float: left;
+    
+}
+
+.cp{
+    margin-top: 50px;
+}
